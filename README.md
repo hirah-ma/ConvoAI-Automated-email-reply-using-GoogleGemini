@@ -49,21 +49,22 @@ Run the following command to install the required Python libraries:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### 4. Running the Project
 To start ConvoAI, run the following command:
-
-bash
-Copy code
+```bash
 python main.py
+```
 ConvoAI will:
 
 Access your Gmail account using the provided credentials.
 Filter for emails labeled as "unread."
 Generate replies using Google Gemini.
 Send the generated replies via SMTP.
-5. Troubleshooting
+
+###5. Troubleshooting
 Token Expiration: If your token.json expires, regenerate it by following the steps for the Gemini API.
 API Errors: Ensure your APIs are correctly set up and that your credentials are valid.
-Contributing
+
+###Contributing
 Feel free to contribute to this project by opening a pull request or reporting issues.
