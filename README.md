@@ -62,9 +62,9 @@ Filter for emails labeled as "unread."
 Generate replies using Google Gemini.
 Send the generated replies via SMTP.
 
-###5. Troubleshooting
+### 5. Troubleshooting
 Token Expiration: If your token.json expires, regenerate it by following the steps for the Gemini API.
 API Errors: Ensure your APIs are correctly set up and that your credentials are valid.
 
-###Contributing
+### 6. Contributing
 Feel free to contribute to this project by opening a pull request or reporting issues.
