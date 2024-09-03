@@ -1,12 +1,13 @@
 # ConvoAI: Automated Email Reply System Using Google Gemini
 
 
-![ConvoAI Logo](ConvoAI-Email-Automation-using-GoogleGemini/images/website.png)
+![ConvoAI Logo](images/website.png)
 
 ConvoAI is an AI-powered system designed to automate email replies using Google Gemini and Gmail API as a callcenter agent(you can change the prompt to Gemini). This guide will walk you through the setup and usage of the project.
 ## Demo
 
-![ConvoAI in Action](ConvoAI-Email-Automation-using-GoogleGemini/images/ConvoAI_GIF.gif)
+![ConvoAI in Action](images/GIF.gif)
+
 ## Features
 
 - Access your Gmail account using the provided credentials.
